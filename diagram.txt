@@ -1,0 +1,13 @@
+QNN Model
+├── Quantum Circuit
+│   ├── Input Data
+│   ├── Quantum Gates
+│   └── Quantum States
+├── Variational Quantum Circuit
+│   ├── Quantum Parameters
+│   ├── Quantum Operators
+│   └── Quantum Gradients
+└── Classical Neural Network
+    ├── Classical Parameters
+    ├── Classical Loss Function
+    └── Classical Optimizer
